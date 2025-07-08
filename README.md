@@ -16,14 +16,7 @@
 
 ---
 
-### 🎬 Movie Recommendation System
-- **Tech Stack**: Python, Pandas, Numpy, NLP, Naive Bayes, Flask
-- Built a content-based movie recommender using sentiment analysis and TMDB API.
-- Designed with a Python-based frontend for interactive movie searches.
 
-🔗 [View Project](https://github.com/varunchowdarytalapaneni/Movie-Recommendation-System)
-
----
 
 ## 🛠️ Skills
 
