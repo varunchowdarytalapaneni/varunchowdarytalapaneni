@@ -29,8 +29,7 @@
 
 ## 🌐 Let's Connect
 
-📧 Email: varuntalapaneni18@gmail.com  
-📱 Phone: +91 6304833734  
+📧 Email: varuntalapaneni18@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/talapaneni-varun-chowdary-561821258)  
 🐙 [GitHub](https://github.com/varunchowdarytalapaneni)
 
